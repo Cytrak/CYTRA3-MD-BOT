@@ -75,7 +75,7 @@ france({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/nsfw/blowjob'; // Remplace avec ton lien réel
+  const url = 'https://www.google.com/url?q=https://www.pornhub.com/video/search%3Fsearch%3Drandom&sa=U&ved=2ahUKEwiz8ei8tt6FAxXVzAIHHSxAB04QFnoECBAQAQ&usg=AOvVaw1-nQCyxWoD0uZ5cWfHqTDP'; // Remplace avec ton lien réel
 
   try { for (let i = 0 ; i < 5 ; i++ ) {
     const response = await axios.get(url);
