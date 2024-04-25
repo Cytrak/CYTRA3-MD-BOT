@@ -4,14 +4,15 @@ const axios = require('axios');
 
 
 france({
-  nomCom: "hwaifu",
+  nomCom: "ngwati",
   categorie: "Tabia mbaya",
-  reaction: "🙄"
+  reaction: "🔜"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/nsfw/waifu'; // Remplace avec ton lien réel
+  const url = 'XVIDEOS.COMhttps://www.xvideos.comXVIDEOS.COM'
+https://www.google.com/url?q=https://www.xvideos.com/&sa=U&ved=2ahUKEwiA5b_Ir96FAxV0gv0HHdpyDN8QFnoECAgQAQ&usg=AOvVaw2vrtmitWKB8JF4yP-Gf3D8; // Remplace avec ton lien réel
 
   try { for (let i = 0 ; i < 5 ; i++ ) {
     const response = await axios.get(url);
