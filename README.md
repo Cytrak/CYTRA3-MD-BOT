@@ -21,7 +21,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Cytrak/CYTRA-MD-BOT) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://pair-flaash-a1897ea752f7.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://the-flash-md-sessions-a60bdbe4bf3e.herokuapp.com/pair)***
 
 
 
